@@ -1,6 +1,6 @@
 FROM java:openjdk-7-jre
 
-MAINTAINER David <david@esse.io>
+MAINTAINER Miller Ming <SuperPlan2017@163.com>
 
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y \
     libcgi-pm-perl \

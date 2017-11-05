@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER gengjh <david.geng@idevops.net>
+MAINTAINER Miller Ming <SuperPlan2017@163.com>
 RUN yum clean all \
 && yum -y update \
 && yum -y install python-setuptools wget

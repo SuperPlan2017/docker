@@ -1,5 +1,5 @@
 FROM jenkins
-MAINTAINER David Geng <david@esse.io>
+MAINTAINER Miller Ming <SuperPlan2017@163.com>
 
 # Install sbt
 USER root

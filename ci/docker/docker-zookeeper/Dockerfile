@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER David Geng
+MAINTAINER Miller Ming <SuperPlan2017@163.com>
 
 ENV ZOO_VERSION 3.4.6
 ENV ZOO_ID 0

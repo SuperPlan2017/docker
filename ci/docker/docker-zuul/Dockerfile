@@ -1,5 +1,5 @@
 FROM centos7
-MAINTAINER gengjh <david.geng@idevops.net>
+MAINTAINER Miller Ming <SuperPlan2017@163.com>
 
 # INSTALL ZUUL
 RUN yum clean all && yum install -y gcc make gcc-c++ python-devel libyaml-devel git

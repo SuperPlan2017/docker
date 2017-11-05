@@ -1,5 +1,5 @@
 FROM relateiq/oracle-java7
-MAINTAINER David Geng <david@esse.io>
+MAINTAINER Miller Ming <SuperPlan2017@163.com>
 
 RUN mkdir /kafka /data /logs
 
